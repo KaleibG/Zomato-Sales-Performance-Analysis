@@ -6,10 +6,9 @@ This project investigates Zomato’s order, menu, and restaurant data to evaluat
 🧾 FILES INCLUDED
 ==============================
 
-- `Zomato_Report.pdf`: Full project report with executive summary, goals, visuals, and business recommendations. [HERE](https://acrobat.adobe.com/id/urn:aaid:sc:US:d778c2f2-9b55-4145-bbd4-5fbcd621bcb3) 
-- `dashboard_link.txt`: Link is [[HERE](https://grantanalytics-my.sharepoint.com/:u:/g/personal/kaleibgrant_grantanalytics_onmicrosoft_com/EazZLBcwD4NOs7Vk_IfAWJoBOei_1WoMFdjuzdphqEZXoA?e=7KKuQ0)]
+- `Zomato_Report.pdf`: Full project report  [HERE](https://acrobat.adobe.com/id/urn:aaid:sc:US:d778c2f2-9b55-4145-bbd4-5fbcd621bcb3) with executive summary, goals, visuals, and business recommendations. 
+- `dashboard_link.txt`: Link is [HERE](https://grantanalytics-my.sharepoint.com/:u:/g/personal/kaleibgrant_grantanalytics_onmicrosoft_com/Ea3v_jrPVcRLkVg76kfWgegBBhZPb0hxN5Rgo2CCctdMQw?e=npDR1e)
 - `dashboard_instructions.txt`: Notes about filters, relationships, DAX logic (if needed)  
-- `Zomato_Final.csv`: Final cleaned and joined dataset used in the dashboard (merged orders, restaurant, menu)  
 
 🧪 DATA PREPARATION SUMMARY
 ==============================
