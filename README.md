@@ -1,19 +1,13 @@
 
 📊ZOMATO SALES PERFORMANCE ANALYSIS
 ==============================
-
-Prepared by: [Your Name]  
-Date: [Submission Date]  
-Tool Used: Power BI  
-File Type: Combined ZIP (.zip) containing all necessary project files
-
 This project investigates Zomato’s order, menu, and restaurant data to evaluate business performance, understand customer purchasing behavior, and recommend strategies for growth. Power BI is used for cleaning, transforming, and visualizing the data. The dashboard includes dynamic filters, key performance indicators (KPIs), and multiple visuals to support decision-making.
 
 🧾 FILES INCLUDED
 ==============================
 
-- `Zomato_Report.pdf`: Full project report with executive summary, goals, visuals, and business recommendations  
-- `dashboard_link.txt`: Link to published Power BI dashboard  
+- `Zomato_Report.pdf`: Full project report with executive summary, goals, visuals, and business recommendations. [HERE](https://acrobat.adobe.com/id/urn:aaid:sc:US:d778c2f2-9b55-4145-bbd4-5fbcd621bcb3) 
+- `dashboard_link.txt`: Link is [[HERE](https://grantanalytics-my.sharepoint.com/:u:/g/personal/kaleibgrant_grantanalytics_onmicrosoft_com/EazZLBcwD4NOs7Vk_IfAWJoBOei_1WoMFdjuzdphqEZXoA?e=7KKuQ0)]
 - `dashboard_instructions.txt`: Notes about filters, relationships, DAX logic (if needed)  
 - `Zomato_Final.csv`: Final cleaned and joined dataset used in the dashboard (merged orders, restaurant, menu)  
 
