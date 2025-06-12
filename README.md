@@ -1,5 +1,4 @@
-Zomato Sales Performance Analysis
-📊 Project Title: Zomato Sales Performance Analysis
+
 This project investigates Zomato’s order, menu, and restaurant data to evaluate business performance, understand customer purchasing behavior, and recommend strategies for growth. Power BI is used for cleaning, transforming, and visualizing the data. The dashboard includes dynamic filters, key performance indicators (KPIs), and multiple visuals to support decision-making.
 
 🧾 Files Included
